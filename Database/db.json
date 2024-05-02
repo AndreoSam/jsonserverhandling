@@ -1,0 +1,63 @@
+{
+  "product": [
+    {
+      "product_name": "Mobile",
+      "color": "Blue",
+      "description": "Samsung Mobile, Android",
+      "price": "32,500",
+      "version": "4.5.0",
+      "id": 1
+    },
+    {
+      "product_name": "Iphone",
+      "price": "50,000",
+      "version": "13.0.1",
+      "description": "Iphone, Apple OS",
+      "color": "black",
+      "id": 2
+    },
+    {
+      "product_name": "Laptop",
+      "price": "32,000",
+      "version": "11th Generation",
+      "description": "HP",
+      "color": "black",
+      "id": 3
+    },
+    {
+      "product_name": "Mobile",
+      "price": "11,000",
+      "version": "8.02",
+      "description": "Poco M2 Pro",
+      "color": "",
+      "id": 4
+    },
+    {
+      "product_name": "Mobile",
+      "price": "19,299",
+      "version": "10.4.1",
+      "description": "Assus Max Pro M1",
+      "color": "",
+      "id": 5
+    },
+    {
+      "product_name": "Mobile",
+      "price": "50,999",
+      "version": "11.0.2",
+      "description": "Google Pixel",
+      "color": "",
+      "id": 6
+    },
+    {
+      "product_name": "Mobile",
+      "price": "12,000",
+      "version": "10th Gen Orio",
+      "description": "Redmi Note 9 Pro Max",
+      "color": "blue",
+      "id": 7
+    }
+  ],
+  "item": [
+    {}
+  ]
+}
